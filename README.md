@@ -27,19 +27,6 @@ This repository contains hands-on Python assignments focused on building a stron
 
 ---
 
-## 📂 Repository Structure
-
-```
-Python-Data-Analysis-Assignments/
-│
-├── Assignment-1-NumPy.ipynb
-├── Assignment-2-Pandas.ipynb
-├── Assignment-3-Matplotlib.ipynb
-└── README.md
-```
-
----
-
 ## 📖 Topics Covered
 
 ### 🔹 NumPy
